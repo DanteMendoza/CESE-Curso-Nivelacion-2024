@@ -2,4 +2,4 @@ una linea de texto 1.
 una linea de texto 2.
 una linea de texto 3.
 una linea de texto 4.
-una linea de texto 5..
+una linea de texto 5...
