@@ -1,5 +1,5 @@
-# Object file
-*.o
+# Ignorar archivos HTML
+*.html
 
-# Ada Library Information
-*.ali
+# Ignorar el contenido de la carpeta output
+output/
